@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
  
-### Sobre mim:
+## Sobre mim:
  - 👨‍🎓 Estudante Engenharia de Software (1/4) 💻  
  
  - ✍️ Atualmente estou estudando sobre Desenvolvimento Web e Mobile para que possa dar sequencia em meus projetos.
