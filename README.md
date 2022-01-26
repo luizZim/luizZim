@@ -26,7 +26,7 @@ Para alguém que queria ser médico essa é uma area bem diferente não é?<br> 
 </div>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=luizZim&show_icons=true" alt="javascript" width="450"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=luizZim&show_icons=true" alt="javascript" width="350"/>
 
 ## Status de uso do GitHub 💻
 #### No momento estou trabalhando para melhorar meu desenvolvimento em aplicações, aprendendo novas linguagens e Frameworks, para que assim possa deixar a marca da minha evolução em meus repositórios.  
