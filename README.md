@@ -1,5 +1,4 @@
-#  Olá, Seja Bem Vindo ao meu perfil do Readme eu sou o luiz!<span style="max-width: 30px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="mao-acenando" style="width: 36px !important;"/></span>
-
+#  Olá, Seja Bem Vindo ao meu perfil, eu sou o luiz!
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
  
