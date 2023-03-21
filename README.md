@@ -5,7 +5,7 @@
 ### Sobre mim:
  - 👨‍🎓 Estudante Engenharia de Software (3/4) 💻  
  
- - ✍️ Atualmente estou estudando sobre Desenvolvimento Web e Mobile para que possa dar sequencia em meus projetos.
+ - ✍️ Atualmente estou estudando Lógica de programação com javaScript, também CSS, HTML E MYQSL para que possa dar sequencia em meus projetos.
  
  - 👉👈 Tenho interesse tanto em Front-end quanto em Back-end meu objetivo é aprender a dominar ambos.
 
