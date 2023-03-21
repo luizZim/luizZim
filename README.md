@@ -14,6 +14,7 @@
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luizZim&theme=default" alt="streaks" width="450"/>
 
+
 ## Curiosidade
 
 <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
