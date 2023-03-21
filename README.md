@@ -47,18 +47,10 @@ Para alguém que queria ser médico essa é uma area bem diferente não é?<br> 
   &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="boot"height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Jv" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img align="center" alt="mysql"height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="jquerry"height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="ionic"height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="php"height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  &nbsp;&nbsp;&nbsp;
+
+  
 </p>
    
 ## Meus Contatos:
