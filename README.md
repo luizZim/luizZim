@@ -3,7 +3,7 @@
 
  
 ### Sobre mim:
- - 👨‍🎓 Estudante Engenharia de Software (2/4) 💻  
+ - 👨‍🎓 Estudante Engenharia de Software (3/4) 💻  
  
  - ✍️ Atualmente estou estudando sobre Desenvolvimento Web e Mobile para que possa dar sequencia em meus projetos.
  
