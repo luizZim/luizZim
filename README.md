@@ -20,7 +20,7 @@
 <img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <h4 style="text-align: left"> 
-Para alguém que queria ser médico essa é uma area bem diferente não é?<br> Pois é decidi que essa era minha paixão quando não me via fazendo outra coisa, então dai foram surgindo ideias de projetos e aplicativos que um dia eu gostaria de criar e então decidi que esse era o caminho a se seguir e cá estamos.
+Para alguém que queria ser médico essa é uma area bem diferente não é?<br> Pois é, decidi que essa era minha paixão quando não me via fazendo outra coisa, então dai foram surgindo ideias de projetos e aplicativos que um dia eu gostaria de criar e então decidi que esse era o caminho a se seguir e cá estamos.
 </h4>
 <br>  
 </div>
@@ -29,7 +29,7 @@ Para alguém que queria ser médico essa é uma area bem diferente não é?<br> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=luizZim&show_icons=true" alt="javascript" width="350"/>
 
 ## Status de uso do GitHub 💻
-#### No momento estou trabalhando para melhorar meu desenvolvimento em aplicações, aprendendo novas linguagens e Frameworks, para que assim possa deixar a marca da minha evolução em meus repositórios.  
+#### No momento estou trabalhando para melhorar meu desenvolvimento em aplicações Front-End, aprendendo novas linguagens, para que assim possa deixar a marca da minha evolução em meus repositórios.  
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
