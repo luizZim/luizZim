@@ -5,11 +5,11 @@
 ### Sobre mim:
  - 👨‍🎓 Estudante Engenharia de Software (3/4) 💻  
  
- - ✍️ Atualmente estou estudando Lógica de programação com javaScript, também CSS, HTML E MYQSL para que possa dar sequencia em meus projetos.
+ - ✍️ Atualmente estudo para a formação Front-End, onde estou aprimorando meus conhecimentos em HTML e CSS visando concluir parte da minha jornada rumo carreira de desenvolverdor FullStack.
  
  - 👉👈 Tenho interesse tanto em Front-end quanto em Back-end meu objetivo é aprender a dominar ambos.
 
- - 🎯 Objetivo: Dar sequência no meu projeto para as UBS 
+ - 🎯 Objetivo: Conseguir uma oportunidade na area de desenvolvimento para que no futuro seja capaz de me tornar o desenvolvedor que desejo.
  
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luizZim&theme=default" alt="streaks" width="450"/>
