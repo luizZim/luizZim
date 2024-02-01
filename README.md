@@ -3,13 +3,13 @@
 
  
 ### Sobre mim:
- - 👨‍🎓 Estudante Engenharia de Software (3/4) 💻  
+ - 👨‍🎓 Estudante Engenharia de Software (4/4) 💻  
  
- - ✍️ Atualmente estudo para a formação Front-End, onde estou aprimorando meus conhecimentos em HTML e CSS visando concluir parte da minha jornada rumo carreira de desenvolverdor FullStack.
+ - ✍️ Atualmente focado no estudo e desenvolvimento de aplicações mobile e web visando adquirir cada vez mais conhecimento em ambas as áreas.
  
- - 👉👈 Tenho interesse tanto em Front-end quanto em Back-end meu objetivo é aprender a dominar ambos.
+ - 👉👈 Grande interesse em aprendizado, e evolução continua dentro das áres que desejo seguir.
 
- - 🎯 Objetivo: Conseguir uma oportunidade na area de desenvolvimento para que no futuro seja capaz de me tornar o desenvolvedor que desejo.
+ - 🎯 Objetivo: Aprimorar cada vez mais minhas habilidade de desenvolvimento e resolução de problemas.
  
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luizZim&theme=default" alt="streaks" width="450"/>
