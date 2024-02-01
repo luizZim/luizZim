@@ -42,6 +42,10 @@ Para alguém que queria ser médico essa é uma area bem diferente não é?<br> 
 
 <h2>Linguagens e Frameworks que estou aprendendo 📚</h2>
 <p align="left">
+   <img align="center" alt="html"height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="html"height="40" width="50" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+  &nbsp;&nbsp;&nbsp;
    <img align="center" alt="html"height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   &nbsp;&nbsp;&nbsp;
   <img align="center" alt="css"height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
