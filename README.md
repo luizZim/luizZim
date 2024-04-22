@@ -1,29 +1,16 @@
 #  Olá, Seja Bem Vindo ao meu perfil, eu sou o luiz!
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 
  
 ### Sobre mim:
  - 👨‍🎓 Estudante Engenharia de Software (4/4) 💻  
  
- - ✍️ Atualmente focado no estudo e desenvolvimento de aplicações mobile e web visando adquirir cada vez mais conhecimento em ambas as áreas.
+ - ✍️ Atualmente focado no estudo e desenvolvimento de aplicações mobile e web na [MIT](https://www.linkedin.com/company/marchiore/)
  
  - 👉👈 Grande interesse em aprendizado, e evolução continua dentro das áres que desejo seguir.
 
  - 🎯 Objetivo: Aprimorar cada vez mais minhas habilidade de desenvolvimento e resolução de problemas.
- 
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=luizZim&theme=default" alt="streaks" width="450"/>
-
-
-## Curiosidade
-
-<img align="right" width=100px height=100px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-<h4 style="text-align: left"> 
-Para alguém que queria ser médico essa é uma area bem diferente não é?<br> Pois é, decidi que essa era minha paixão quando não me via fazendo outra coisa, então dai foram surgindo ideias de projetos e aplicativos que um dia eu gostaria de criar e então decidi que esse era o caminho a se seguir e cá estamos.
-</h4>
-<br>  
-</div>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=luizZim&show_icons=true" alt="javascript" width="350"/>
