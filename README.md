@@ -1,13 +1,13 @@
 #  Olá, eu sou o luiz!
 
-<img  align="right" src="https://github.com/user-attachments/assets/5d9c6a87-cbcf-470b-9a84-c5f7939fd6f7"> 
+<img  align="right" src="https://github.com/user-attachments/assets/fd4bb6cf-0a1c-4b2c-8266-d4259be83ce7"> 
 
  
 <h3>Sobre mim:</h3> 
 
  - 👨‍🎓 Estudante Engenharia de Software (4/4) 💻  
  
- - ✍️ Atualmente focado no estudo e desenvolvimento de aplicações mobile e web na [MIT](https://www.linkedin.com/company/marchiore/)
+ - ✍️ Atualmente focado no estudo e desenvolvimento de aplicações mobile.
  
  - 👉👈 Grande interesse em aprendizado, e evolução continua dentro das áreas que desejo seguir.
 
