@@ -5,13 +5,17 @@
  
 <h3>Sobre mim:</h3> 
 
- - 👨‍🎓 Estudante Engenharia de Software (4/4) 💻  
+  - 👨‍🎓 Engenheiro de Software 💻  
  
- - ✍️ Atualmente focado no estudo e desenvolvimento de aplicações mobile.
+ - ✍️ Desenvolvedor de aplicações mobile com React Native.  &nbsp; <img align="center" width="20" src="https://github.com/user-attachments/assets/6f00d6b3-cc7a-4d53-b93b-2f3a8174d95a">
+
  
  - 👉👈 Grande interesse em aprendizado, e evolução continua dentro das áreas que desejo seguir.
 
  - 🎯 Objetivo: Aprimorar cada vez mais minhas habilidades de desenvolvimento e resolução de problemas.
+
+
+
 
 <br><br>
 <br><br>
