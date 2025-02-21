@@ -1,6 +1,6 @@
 #  Olá, eu sou o luiz!
 
-<img  align="right" src="https://github.com/user-attachments/assets/fd4bb6cf-0a1c-4b2c-8266-d4259be83ce7"> 
+<img  align="right" src="https://github.com/user-attachments/assets/62e0d315-cf44-4c64-8d0d-a98d54953aec"> 
 
  
 <h3>Sobre mim:</h3> 
